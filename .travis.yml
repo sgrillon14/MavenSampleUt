@@ -6,6 +6,7 @@ addons:
   sonarqube:
     organization: "sgrillon14" 
 
+
 jdk:
 - oraclejdk8
 
