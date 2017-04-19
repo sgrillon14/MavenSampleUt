@@ -7,13 +7,13 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>sampleut</name>
+    <name>mavensampleut</name>
     <url>https://sgrillon14.github.io</url>
 
     <scm>
-        <connection>scm:git:git@github.com:sgrillon14/SampleUt.git</connection>
-        <developerConnection>scm:git:git@github.com:sgrillon14/SampleUt.git</developerConnection>
-        <url>https://github.com/sgrillon14/SampleUt</url>
+        <connection>scm:git:git@github.com:sgrillon14/MavenSampleUt.git</connection>
+        <developerConnection>scm:git:git@github.com:sgrillon14/MavenSampleUt.git</developerConnection>
+        <url>https://github.com/sgrillon14/MavenSampleUt</url>
     </scm>
     
     <properties>
