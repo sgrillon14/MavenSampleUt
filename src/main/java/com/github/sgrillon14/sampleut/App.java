@@ -1,4 +1,4 @@
-package com.github.noraui.sampleut;
+package com.github.sgrillon14.sampleut;
 
 /**
  * Hello world!

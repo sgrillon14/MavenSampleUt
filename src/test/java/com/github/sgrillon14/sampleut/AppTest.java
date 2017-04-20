@@ -1,6 +1,8 @@
-package com.github.noraui.sampleut;
+package com.github.sgrillon14.sampleut;
 
 import org.junit.Test;
+
+import com.github.sgrillon14.sampleut.App;
 
 /**
  * Unit test for simple App.
