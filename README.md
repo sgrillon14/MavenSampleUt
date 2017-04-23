@@ -9,5 +9,5 @@ Maven sample project for UT coverage
 
 # License
 
-[![license](https://img.shields.io/github/license/sgrillon14/MavenSampleUt.svg)](https://github.com/sgrillon14/MavenSampleUt/blob/master/LICENCE)
-BSD, See LICENCE for details
+[![license](https://img.shields.io/github/license/sgrillon14/MavenSampleUt.svg)](https://github.com/sgrillon14/MavenSampleUt/blob/master/LICENSE)
+BSD, See LICENSE for details
