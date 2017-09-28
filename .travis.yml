@@ -10,7 +10,7 @@ jdk:
 - oraclejdk8
 
 script:
-- mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent package sonar:sonar -Dsonar.host.url=https://sonarqube.com -Dsonar.organization=sgrillon14-github -Dsonar.login=$SONAR_TOKEN -Punit-tests
+- mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent package sonar:sonar -Dsonar.host.url=https://sonarcloud.io -Dsonar.organization=sgrillon14-github -Dsonar.login=$SONAR_TOKEN -Punit-tests
 
 cache:
   directories:
