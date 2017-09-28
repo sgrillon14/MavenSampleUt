@@ -2,20 +2,23 @@ package com.github.sgrillon14.sampleut;
 
 import org.junit.Test;
 
-import com.github.sgrillon14.sampleut.App;
-
 /**
  * Unit test for simple App.
  */
 public class AppTest {
 
     @Test
-    public void testHelloWorld() {
+    public void testHelloWorldNull() {
         App.main(null);
     }
- 
+
     @Test
-    public void testHelloWorld2() {
+    public void testHelloWorldNull2() {
         App.main(null);
+    }
+
+    @Test
+    public void testHelloWorldOK() {
+        App.main(new String[1]);
     }
 }
